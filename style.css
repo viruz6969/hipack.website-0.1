@@ -1,0 +1,34 @@
+body {
+	background-color: #DFDBDB;
+}
+
+#naglowek header {
+	background-image: url(header.png);
+	width: 100%;
+	text-align: center;
+	color: #fff;
+	text-shadow: 0.1em 0.1em 0.2em black;
+}
+
+
+a:link {
+	text-decoration: none;
+	color: #fff;
+}
+
+#podpis {
+	color: #A5A5A5;
+}
+
+.card-deck {
+	margin-left: 0;
+	margin-right: 0;
+	text-align: center;
+	float: left;
+}
+
+.card bg-light mb-3 {
+	float: left;
+	margin: 0 auto;
+	text-align: center;
+}
